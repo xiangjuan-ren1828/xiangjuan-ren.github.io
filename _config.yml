@@ -1,3 +1,22 @@
 theme: jekyll-theme-minimal
-title: Xiangjun Ren's personal website
-description: xxxxx
+title: "Xiangjun Ren"
+description: "Learning and Memory, Decision-making"
+# URL for a user site should be https://<username>.github.io
+url: "https://xiangjuan-ren.github.io"
+baseurl: "" # empty for user/organization site
+author:
+  name: "Xiangjun Ren"
+  email: ""   # optional
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+exclude:
+  - "node_modules"
+  - "vendor"
+# Optional: social links you can use in templates
+social_links:
+  - name: "GitHub"
+    url: "https://github.com/xiangjuan-ren1828"
+  - name: "LinkedIn"
+    url: ""
