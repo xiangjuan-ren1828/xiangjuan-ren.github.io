@@ -1,11 +1,11 @@
 theme: jekyll-theme-minimal
-title: "Xiangjun Ren"
+title: "Xiangjuan Ren"
 description: "Learning and Memory, Decision-making"
 # URL for a user site should be https://<username>.github.io
 url: "https://xiangjuan-ren1828.github.io"
 baseurl: "" # empty for user/organization site
 author:
-  name: "Xiangjun Ren"
+  name: "Xiangjuan Ren"
   email: "xiangjuanr@gmail.com"   # optional
 
 plugins:
