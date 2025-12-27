@@ -13,5 +13,5 @@ Write a few paragraphs about your background, interests, and contact details.
 - Project B — short explanation and link
 
 ### Contact
-- Email: you@example.com
+- Email: xiangjuanr@gmail.com
 - GitHub: https://github.com/xiangjuan-ren1828

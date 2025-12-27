@@ -6,14 +6,36 @@ url: "https://xiangjuan-ren.github.io"
 baseurl: "" # empty for user/organization site
 author:
   name: "Xiangjun Ren"
-  email: ""   # optional
+  email: "xiangjuanr@gmail.com"   # optional
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
 markdown: kramdown
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
 exclude:
   - "node_modules"
   - "vendor"
+  
 # Optional: social links you can use in templates
 social_links:
   - name: "GitHub"

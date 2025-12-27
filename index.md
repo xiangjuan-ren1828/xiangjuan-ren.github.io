@@ -8,9 +8,9 @@ Hello — I'm Xiangjun. I'm interested in data science, machine learning, and bu
 
 - 🔭 I’m currently working on: [project name / short description]
 - 🌱 I’m learning: explain briefly
-- ✉️ Get in touch: [email] or via [GitHub](https://github.com/xiangjuan-ren1828)
+- ✉️ Get in touch: you@example.com or via [GitHub](https://github.com/xiangjuan-ren1828)
 
 Links
-- [About](/about)
-- [Projects](/projects)
-- [Blog](/blog)  <!-- create /_posts for posts -->
+- [About](/about/)
+- [Projects](/projects/)
+- [Blog](/blog/)  <!-- create /_posts for posts -->
