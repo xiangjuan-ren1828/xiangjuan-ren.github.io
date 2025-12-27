@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: "Xiangjuan Ren"
+tagline: Postdoc
 description: "Learning and Memory, Decision-making"
 # URL for a user site should be https://<username>.github.io
 url: "https://xiangjuan-ren1828.github.io"
@@ -40,5 +41,5 @@ exclude:
 social_links:
   - name: "GitHub"
     url: "https://github.com/xiangjuan-ren1828"
-  - name: "LinkedIn"
-    url: ""
+  # - name: "LinkedIn"
+  #   url: ""
