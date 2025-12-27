@@ -14,4 +14,4 @@ Hellooo!
 Links
 - [About](/about/)
 - [Projects](/projects/)
-- [Blog](/blog/)  create /_posts for posts
+- [Blog](/blog/) 
